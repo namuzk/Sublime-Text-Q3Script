@@ -5,12 +5,12 @@ This bundle brings __Quake 3__ scripts highlighting support to your Sublime Text
 ![Q3 Scripts](../master/assets/q3-highlight.png)
 
 ## Easy installation
-You can install this package through the [Package Control](https://packagecontrol.io/installation). Search for *"Quake3 Script"*, install.
+You can install ~~this package~~ the old version through [Package Control](https://packagecontrol.io/installation). Search for *"Quake3 Script"*, install.
 
 --
 
 **Manual installation**
 
-1. Download the [latest release](https://github.com/isRyven/Sublime-Text-Q3Script/releases/latest), extract.
+1. Download **this** version for some minor changes to shader file completions
 
 2. Move the folder inside your sublime Packages directory. **(Preferences > Browse packages...)**
